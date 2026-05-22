@@ -1,0 +1,6 @@
+{
+  "name": "INGETIN - Task Manager",
+  "description": "Task manager super simpel dengan Admin dashboard, user activation, login email & password, dibangun dengan Next.js dan better-sqlite3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
